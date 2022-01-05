@@ -1,4 +1,4 @@
-# Análise Exploratória e Visualização de Dados
+# Análise Exploratória
 
 Autor: Rodrigo Pompermayer Soares
 
